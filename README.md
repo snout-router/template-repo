@@ -13,7 +13,7 @@
 [badge-bundle-link]: https://bundlephobia.com/result?p=@packula/GITHUB_REPO_NAME
 [badge-coverage-image]: https://img.shields.io/codecov/c/gh/packula/GITHUB_REPO_NAME?style=for-the-badge
 [badge-coverage-link]: https://codecov.io/gh/packula/GITHUB_REPO_NAME
-[badge-version-image]: https://img.shields.io/npm/v/@packula/GITHUB_REPO_NAME?style=for-the-badge
+[badge-version-image]: https://img.shields.io/npm/v/@packula/GITHUB_REPO_NAME?label=%40packula%2FGITHUB_REPO_NAME&logo=npm&style=for-the-badge
 [badge-version-link]: https://npmjs.com/package/@packula/GITHUB_REPO_NAME
 
 -->
