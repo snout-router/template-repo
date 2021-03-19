@@ -29,5 +29,5 @@ repository from this template, follow these steps:
 - Search for `REPLACE_ME` in all files to find areas that need manual input.
 - On the settings page (https://github.com/packula/GITHUB_REPO_NAME/settings):
   - Disable the "Wikis" feature
+  - Disable the "Projects" feature
   - Enable "Automatically delete head branches" under the "Merge button" section
-- Run `mv .github/dependabot.yml.template .github/dependabot.yml`
