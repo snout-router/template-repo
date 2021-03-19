@@ -18,9 +18,6 @@
 
 -->
 
-> [Click here](https://github.com/packula/template-repo/generate) to create a new
-repository from this template.
-
 This repository is a template for Packula TypeScript projects. After creating a
 repository from this template, follow these steps:
 
