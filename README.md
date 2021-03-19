@@ -28,3 +28,6 @@ repository from this template, follow these steps:
   - Disable the "Wikis" feature
   - Disable the "Projects" feature
   - Enable "Automatically delete head branches" under the "Merge button" section
+  - In the "About" section of the repo:
+    - Set the repo description and URL
+    - Disable "Packages" and "Environments"
