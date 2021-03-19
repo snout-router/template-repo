@@ -4,7 +4,7 @@
   "description": "REPLACE_ME",
   "repository": "packula/GITHUB_REPO_NAME",
   "bugs": "https://github.com/packula/GITHUB_REPO_NAME/issues",
-  "homepage": "https://packula.dev/",
+  "homepage": "https://packula.dev",
   "author": "Erin Millard <ezzatron@gmail.com>",
   "license": "MIT",
   "publishConfig": {
