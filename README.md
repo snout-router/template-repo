@@ -1,3 +1,4 @@
+<!-- REPLACE_ME -->
 # Packula template repo
 
 <!-- Uncomment this section
