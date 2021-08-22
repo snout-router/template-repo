@@ -1,5 +1,5 @@
 <!-- REPLACE_ME -->
-# Snout template repo
+# Snout Template Repo
 
 <!-- Uncomment this section
 
