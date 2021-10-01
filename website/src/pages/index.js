@@ -1,6 +1,6 @@
-import React from 'react'
-import Layout from '@theme/Layout'
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext'
+import Layout from '@theme/Layout'
+import React from 'react'
 
 import Feature from '../components/Feature.js'
 import Features from '../components/Features.js'
