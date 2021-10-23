@@ -25,10 +25,12 @@ repository from this template, follow these steps:
 - Uncomment the badges in this `README.md` file
 - Replace the string `GITHUB_REPO_NAME` in all files with the actual repo name.
 - Search for `REPLACE_ME` in all files to find areas that need manual input.
-- On the settings page (https://github.com/snout-router/GITHUB_REPO_NAME/settings):
+- On the "Settings" page (https://github.com/snout-router/GITHUB_REPO_NAME/settings):
   - Disable the "Wikis" feature
   - Disable the "Projects" feature
   - Enable "Automatically delete head branches" under the "Merge button" section
+- On the "Manage access" page (https://github.com/snout-router/GITHUB_REPO_NAME/settings/access):
+  - Add the `snout-router/dependabot-reviewers` team with the "Maintain" role
 - In the "About" section of the repo:
   - Set the repo description and URL
   - Disable "Packages" and "Environments"
