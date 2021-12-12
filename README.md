@@ -19,18 +19,19 @@
 
 -->
 
-This repository is a template for Snout TypeScript projects. After creating a
-repository from this template, follow these steps:
+This repository is a template for Snout TypeScript projects. Repos should not be
+created manually, because they are managed by a Terraform config. Instead, edit
+the config in the [repos] repo, and use this repo as the template.
+
+After a new repository has been created by Terraform, follow these steps:
 
 - Uncomment the badges in this `README.md` file
 - Replace the string `GITHUB_REPO_NAME` in all files with the actual repo name.
 - Search for `REPLACE_ME` in all files to find areas that need manual input.
-- On the "Settings" page (https://github.com/snout-router/GITHUB_REPO_NAME/settings):
-  - Disable the "Wikis" feature
-  - Disable the "Projects" feature
-  - Enable "Automatically delete head branches" under the "Merge button" section
-- On the "Manage access" page (https://github.com/snout-router/GITHUB_REPO_NAME/settings/access):
-  - Add the `snout-router/dependabot-reviewers` team with the "Maintain" role
 - In the "About" section of the repo:
   - Set the repo description and URL
   - Disable "Packages" and "Environments"
+
+<!-- References -->
+
+[repos]: https://github.com/snout-router/repos
