@@ -1,1 +1,1 @@
-export const placeholder = 'REPLACE_ME'
+export const placeholder = "REPLACE_ME";
