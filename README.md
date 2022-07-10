@@ -24,6 +24,8 @@ This repository is a template for Snout TypeScript projects. Repos should not be
 created manually, because they are managed by a Terraform config. Instead, edit
 the config in the [repos] repo, and use this repo as the template.
 
+[repos]: https://github.com/snout-router/repos
+
 After a new repository has been created by Terraform, follow these steps:
 
 - Uncomment the badges in this `README.md` file
@@ -32,7 +34,3 @@ After a new repository has been created by Terraform, follow these steps:
 - In the "About" section of the repo:
   - Set the repo description and URL
   - Disable "Packages" and "Environments"
-
-<!-- References -->
-
-[repos]: https://github.com/snout-router/repos
