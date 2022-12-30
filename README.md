@@ -9,7 +9,7 @@
 [![Build status][badge-build-image]][badge-build-link]
 [![Test coverage][badge-coverage-image]][badge-coverage-link]
 
-[badge-build-image]: https://img.shields.io/github/workflow/status/snout-router/GITHUB_REPO_NAME/CI?style=for-the-badge
+[badge-build-image]: https://img.shields.io/github/actions/workflow/status/snout-router/GITHUB_REPO_NAME/ci.yml?branch=main&style=for-the-badge
 [badge-build-link]: https://github.com/snout-router/GITHUB_REPO_NAME/actions/workflows/ci.yml
 [badge-bundle-image]: https://img.shields.io/bundlephobia/minzip/@snout/GITHUB_REPO_NAME?style=for-the-badge
 [badge-bundle-link]: https://bundlephobia.com/result?p=@snout/GITHUB_REPO_NAME
